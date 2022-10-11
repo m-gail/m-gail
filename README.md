@@ -16,4 +16,4 @@ Hi, I'm Michael Gail, a software developer from Austria.
 
 ### Projects I recently worked on
 
-* ![m-gail/escape.nvim](https://github.com/m-gail/escape.nvim)
+* [m-gail/escape.nvim](https://github.com/m-gail/escape.nvim)
