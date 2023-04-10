@@ -1,5 +1,9 @@
 <p align="center">
-Hi, I'm Michael Gail, a software developer from Austria.
+Hi, I'm Michael Gail, a 19-year-old software engineer from Austria.
+I am most experienced in web development, both on the frontend and the backend, with frameworks such as Spring, Django and React.
+</p>
+<p align="center">  
+Besides, I also like to work with and configure various open-source software, mainly Linux and neovim, for which you can also find my configs and plugins I have written here.
 </p>
 
 <p align="center">
