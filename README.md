@@ -1,5 +1,5 @@
 <p align="center">
-Hi, I'm Michael Gail, a 19-year-old software engineer from Austria.
+Hi, I'm Michael Gail, a 20-year-old software engineer from Austria.
 I am most experienced in web development, both on the frontend and the backend, with frameworks such as Spring, Django and React.
 </p>
 <p align="center">  
