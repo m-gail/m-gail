@@ -20,5 +20,6 @@ Besides, I also like to work with and configure various open-source software, ma
 
 ### Projects I recently worked on
 
+* [m-gail/diagnostic_manipulation.nvim](https://github.com/m-gail/diagnostic_manipulation.nvim)
 * [m-gail/dotfiles](https://github.com/m-gail/dotfiles)
 * [m-gail/nix](https://github.com/m-gail/nix)
